@@ -1,4 +1,4 @@
-connection: "bq-looker-datablocks"
+connection: "demography"
 
 # include all the BQ view files
 include: "bigquery.explore"
